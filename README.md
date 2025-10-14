@@ -37,8 +37,8 @@
 ---
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=pranjalpachauri&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalpachauri&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=pranjal-pachauri&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal-pachauri&layout=compact&theme=radical)
 
 ---
 
