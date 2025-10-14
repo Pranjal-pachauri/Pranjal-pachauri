@@ -35,45 +35,44 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
+## 📊 GitHub Stats & Activity
 
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=pranjal-pachauri&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal-pachauri&layout=compact&theme=radical)
+<div align="center">
+
+<!-- Main Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=pranjal-pachauri&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
+
+<!-- Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal-pachauri&layout=compact&theme=radical&hide_border=false" height="180em" />
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=pranjal-pachauri&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="180em" />
+
+</div>
 
 ---
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pranjalpachauri&theme=darkhub&margin-w=15)
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pranjal-pachauri&theme=radical&no-frame=false&no-bg=true&margin-w=5" />
+</div>
 
 ---
 
-### 🔥 GitHub Streak
-![](https://github-readme-streak-stats.herokuapp.com/?user=pranjalpachauri&theme=radical)
+## 💻 Profile Summary
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranjal-pachauri&theme=radical" alt="Profile Summary" />
+</div>
 
+---
 
-<h2 align="center">📬 Message Me</h2>
+## 🚀 Competitive Programming
+<div align="center">
 
-<form action="https://formsubmit.co/your@email.com" method="POST" style="
-  background: #0d1117;
-  color: #c9d1d9;
-  border-radius: 12px;
-  padding: 20px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.4);
-  width: 320px;
-  margin: auto;
-  font-family: 'Segoe UI', sans-serif;">
-  
-  <input type="hidden" name="_captcha" value="false">
-  <input type="hidden" name="_template" value="box">
-  
-  <label>Your Name</label><br>
-  <input type="text" name="name" required style="width:100%;padding:8px;margin:5px 0;border-radius:6px;border:none;"><br>
+<!-- LeetCode Stats -->
+[![LeetCode Stats](https://leetcard.jacoblin.cool/pranjalpachauri?theme=dark&font=Baloo%20Chettan%202&ext=contest)](https://leetcode.com/u/Pranjal_pachauri/)
 
-  <label>Email</label><br>
-  <input type="email" name="email" required style="width:100%;padding:8px;margin:5px 0;border-radius:6px;border:none;"><br>
+<!-- Codeforces Stats -->
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=PranjalPachauri&theme=dark)](https://codeforces.com/profile/PranjalPachauri)
 
-  <label>Message</label><br>
-  <textarea name="message" required style="width:100%;padding:8px;margin:5px 0;border-radius:6px;border:none;height:80px;"></textarea><br>
-
-
-
+</div>
