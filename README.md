@@ -86,4 +86,17 @@
     Send Message
   </button>
 </form>
+<div align="center">
+  <h3>💬 Message Me</h3>
+  <p>Click below to send me a message 👇</p>
+  <a href="https://formsubmit.co/your_email@gmail.com" target="_blank" style="
+    background:#ff9800;
+    color:white;
+    text-decoration:none;
+    padding:10px 20px;
+    border-radius:8px;
+    font-weight:bold;">
+    📨 Send a Message
+  </a>
+</div>
 
