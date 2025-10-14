@@ -12,17 +12,36 @@
 
 ---
 
-### 🌐 Connect With Me:
-<p align="left">
-<a href="https://www.linkedin.com/in/pranjal-pachauri-1111pp/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
-<a href="https://leetcode.com/u/Pranjal_pachauri/" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=leetcode" alt="leetcode" />
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/pranjal-pachauri" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
 </a>
-<a href="https://codeforces.com/profile/your-codeforces-username" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" alt="codeforces" width="40" height="40"/>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/pranjalpachauri" target="_blank">
+  <img src="https://skillicons.dev/icons?i=leetcode" height="50" alt="LeetCode" />
+</a>
+&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/PranjalPachauri" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" height="50" alt="Codeforces" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/pranjal-pachauri" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
+</a>
+&nbsp;&nbsp;
+<a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" height="50" alt="Twitter" />
+</a>
+&nbsp;&nbsp;
+<a href="https://YOUR_PORTFOLIO_URL" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html,css,js" height="50" alt="Portfolio" />
 </a>
 
-</p>
+</div>
+
 
 ---
 
@@ -78,35 +97,5 @@
 
 <!-- Codeforces Stats -->
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=PranjalPachauri&theme=dark)](https://codeforces.com/profile/PranjalPachauri)
-
-</div>
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/pranjal-pachauri" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="https://leetcode.com/pranjalpachauri" target="_blank">
-  <img src="https://skillicons.dev/icons?i=leetcode" height="50" alt="LeetCode" />
-</a>
-&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/PranjalPachauri" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" height="50" alt="Codeforces" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/pranjal-pachauri" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
-</a>
-&nbsp;&nbsp;
-<a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" height="50" alt="Twitter" />
-</a>
-&nbsp;&nbsp;
-<a href="https://YOUR_PORTFOLIO_URL" target="_blank">
-  <img src="https://skillicons.dev/icons?i=html,css,js" height="50" alt="Portfolio" />
-</a>
 
 </div>
