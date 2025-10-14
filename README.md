@@ -70,7 +70,9 @@
 <div align="center">
 
 <!-- LeetCode Stats -->
-[![LeetCode Stats](https://leetcard.jacoblin.cool/pranjalpachauri?theme=dark&font=Baloo%20Chettan%202&ext=contest)](https://leetcode.com/u/Pranjal_pachauri/)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/pranjalpachauri?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/Pranjal_pachauri/)
+
 
 <!-- Codeforces Stats -->
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=PranjalPachauri&theme=dark)](https://codeforces.com/profile/PranjalPachauri)
