@@ -71,7 +71,9 @@
 
 <!-- LeetCode Stats -->
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/pranjalpachauri?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/Pranjal_pachauri/)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/pranjalpachauri?theme=dark&ext=contest&cache=0)](https://leetcode.com/pranjalpachauri/)
+
 
 
 <!-- Codeforces Stats -->
