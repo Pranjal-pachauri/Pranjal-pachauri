@@ -6,16 +6,24 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Monospace&size=30&center=true&vCenter=true&pause=1500&color=FF4B4B&width=700&lines=Passionate+Web+Developer;MERN+Stack+Developer;Machine+Learning+Enthusiast;Competitive+Programmer" />
 </p>
+
+#5
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&center=true&vCenter=true&pause=1500&color=F72585&width=750&lines=Web+Developer;AI+%26+ML+Learner;React+%26+Node.js+Developer;DSA+%7C+LeetCode+Coder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&center=true&vCenter=true&pause=1200&color=FF4B4B&width=800&lines=%3CWeb+Developer%2F%3E;Full+Stack+Engineer;AI+%26+Machine+Learning;Creative+Problem+Solver" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&weight=700&center=true&vCenter=true&pause=1500&color=FFFFFF&width=900&lines=Web+Developer;Full+Stack+Learner;Machine+Learning+Enthusiast;Tech+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=30&center=true&vCenter=true&pause=1400&color=00FFEA&width=850&lines=const+developer+=+%22Pranjal%22;Building+cool+web+apps...;Learning+AI+and+Machine+Learning;Writing+clean+and+modern+code" />
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=header&text=Passionate%20Developer&fontSize=40&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=34&weight=700&center=true&vCenter=true&pause=1400&color=00E1FF&width=850&lines=Passionate+Web+Developer;MERN+Stack+Engineer;Machine+Learning+Enthusiast;Competitive+Coder" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&center=true&vCenter=true&pause=1200&color=F72585&width=850&lines=Web+Developer;AI+Enthusiast;MERN+Stack+Builder;Tech+Explorer" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&center=true&vCenter=true&pause=1600&color=FFB000&width=900&lines=Hi%2C+I'm+Pranjal+Pachauri.;I+Build+Modern+Web+Experiences.;I+Love+Clean+UI+%2B+Smart+Engineering.;Let's+Create+Something+Great.⚡" />
+</p>
 
 ---
 
