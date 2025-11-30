@@ -1,5 +1,6 @@
-
-<h1 align="center">Hey Everyone 👋, I'm Pranjal</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff4b4b&height=220&section=header&text=%20Pranjal%20Pachauri%20&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+</p>
 <h3 align="center">A passionate Web Developer from India </h3>
 
 ---
