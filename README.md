@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff4b4b
-&ColorList=0a74ff&height=220&section=header&text=%20Pranjal%20Pachauri%20&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff4b4b&ColorList=0a74ff&height=220&section=header&text=%20Pranjal%20Pachauri%20&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </p>
 
 <p align="center">
