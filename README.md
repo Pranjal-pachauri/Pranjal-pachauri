@@ -3,8 +3,19 @@
 </p>
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monospace&size=30&center=true&vCenter=true&pause=1500&color=FF4B4B&width=700&lines=Passionate+Web+Developer;MERN+Stack+Developer;Machine+Learning+Enthusiast;Competitive+Programmer" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&center=true&vCenter=true&pause=1500&color=F72585&width=750&lines=Web+Developer;AI+%26+ML+Learner;React+%26+Node.js+Developer;DSA+%7C+LeetCode+Coder" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&weight=700&center=true&vCenter=true&pause=1500&color=FFFFFF&width=900&lines=Web+Developer;Full+Stack+Learner;Machine+Learning+Enthusiast;Tech+Explorer" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=header&text=Passionate%20Developer&fontSize=40&fontColor=ffffff" />
+</p>
 
-<h3 align="center">A passionate Web Developer from India </h3>
 
 ---
 
