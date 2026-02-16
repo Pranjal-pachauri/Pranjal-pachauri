@@ -24,14 +24,6 @@
   <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
-<a href="https://leetcode.com/pranjalpachauri" target="_blank">
-  <img src="https://skillicons.dev/icons?i=leetcode" height="50" alt="LeetCode" />
-</a>
-&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/PranjalPachauri" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" height="50" alt="Codeforces" />
-</a>
-&nbsp;&nbsp;
 <a href="https://github.com/pranjal-pachauri" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
 </a>
