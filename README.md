@@ -87,11 +87,11 @@
 <!-- LeetCode Stats -->
 
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/pranjalpachauri?theme=dark&ext=contest&cache=0)](https://leetcode.com/pranjalpachauri/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Pranjal_pachauri_lc?theme=dark&ext=contest)](https://leetcode.com/u/Pranjal_pachauri_lc/)
 
 
 
 <!-- Codeforces Stats -->
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=PranjalPachauri&theme=dark)](https://codeforces.com/profile/PranjalPachauri)
-
+<!--[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=PranjalPachauri&theme=dark)](https://codeforces.com/profile/PranjalPachauri)
+-->
 </div>
