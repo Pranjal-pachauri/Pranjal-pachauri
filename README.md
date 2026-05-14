@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&center=true&vCenter=true&pause=1600&color=FFB000&width=900&lines=Hi%2C+I'm+Pranjal+Pachauri.;I+Build+Modern+Web+Experiences.;I+Love+Clean+UI+%2B+Smart+Engineering.;Let's+Create+Something+Great.⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&center=true&vCenter=true&pause=1600&color=FFB000&width=900&background=000000&lines=Hi%2C+I'm+Pranjal+Pachauri.;I+Build+Modern+Web+Experiences.;I+Love+Clean+UI+%2B+Smart+Engineering.;Let's+Create+Something+Great.⚡" />
 </p>
+
 
 ---
 
