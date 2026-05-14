@@ -14,33 +14,13 @@
 
 ### 🧑‍💻 About Me
 - 🌱 I’m currently learning **React, Node.js, and Machine Learning**
-- 💻 All of my projects are available at [My Repositories](https://github.com/pranjalpachauri?tab=repositories)
+- 💻 All of my projects are available at [My Repositories](https://github.com/Pranjal-pachauri?tab=repositories)
 - 🧩 I regularly solve DSA problems on [LeetCode](https://leetcode.com/)
 
 
 ---
 
-## 🌐 Connect With Me
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/pranjal-pachauri" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/pranjal-pachauri" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
-</a>
-&nbsp;&nbsp;
-<a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" height="50" alt="Twitter" />
-</a>
-&nbsp;&nbsp;
-<a href="https://YOUR_PORTFOLIO_URL" target="_blank">
-  <img src="https://skillicons.dev/icons?i=html,css,js" height="50" alt="Portfolio" />
-</a>
-
-</div>
 
 
 ---
